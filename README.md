@@ -1,8 +1,10 @@
 data_challenges_fase_1
 Fase 1 (T02) Projeto Integrador: Radar Legislativo - SQUAD 22005
 Projeto Integrador v1
-Descrição do Desafio
-Descrição do Desafio
+
+### Esse projeto e a simulação de um ambiente real de engenharia de dados. Entenda o codigo como uma aula para entender como configurar um setup profissional e subir no git hub
+
+# Descrição do Desafio
 
 
 Toda quarta-feira, em Brasília, 513 deputados decidem o rumo de pautas que afetam diretamente o seu bolso, sua empresa, sua cidade.
