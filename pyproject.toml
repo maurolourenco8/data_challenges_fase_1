@@ -1,0 +1,22 @@
+[project]
+name = "data-challenges-fase-1"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Mauro Lourenço", email = "71460759+maurolourenco8@users.noreply.github.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=3.1.1",
+    "psycopg2-binary>=2.9.13",
+    "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+data-challenges-fase-1 = "data_challenges_fase_1:main"
+
+[build-system]
+requires = ["uv_build>=0.13.10,<0.14.0"]
+build-backend = "uv_build"
